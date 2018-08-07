@@ -555,6 +555,10 @@ a{ transition: color 0.2s; }
   max-width:190px!important;
 }
 
+.foss4g-logo {
+  max-width:300px!important;
+}
+
 .fb-platnium {
   max-width:340px!important;
   max-height:120px!important;
