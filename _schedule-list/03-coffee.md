@@ -2,8 +2,8 @@
 type: "admin"
 day: 1
 
-time: 11:15 - 11:45
-event: Coffee Break
-location: The Foundry
+time: 10:30 - 11:00
+event: Tea Break
+location: National Museum
 
 ---

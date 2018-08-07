@@ -2,32 +2,26 @@
 type: "split-session"
 day: 1
 
-time: 11:45 - 12:30
+time: 11:00 - 13:25
 
-session-a-event: "Breakout Session #3"
-session-a-location: The Foundry
+session-a-event: "Session #3"
+session-a-location: Room 1
 session-a-talks:
-- title: "How can we contribute to the international data community?"
+- title: "HOT 2020 - Strategic Planning (HOT Voting Members, all welcome to observe)"
   speakers:
-    - name: Jenna Slotin
-      org: Global Partnership for Sustainable Development Data
-    - name: Rebecca Firth
-      org: Humanitarian OpenStreetMap Team
-- title: "OpenStreetMap in Bangladesh: A community approach leading toward sustainable resilience. "
-  speakers:
-    - name: "Ahasanul Hoque"
-      org: "Bangladesh Humanitarian OpenStreetMap Operational Team (BHOOT), OSMBD"
+    - name:
+      org:
 
-session-b-event: "Breakout Session #4"
-session-b-location: W101B
+session-b-event: "Session #4"
+session-b-location: Room 2
 session-b-talks:
-- title: "How a Company Collaborates with HOT"
+- title: "AI & Machine Learning: Integrating into HOT tools"
   speakers:
-    - name: Mikel Maron
-      org: Mapbox
-- title: "A review of new and existing methodologies used to improve the efficiency and accuracy of the Humanitarian OpenStreetMap Team validation process"
+    - name:
+      org:
+- title: "How-To: HOT Tasking Manager Project Management & Validation"
   speakers:
-    - name: Steve Penson
-      org: 1Spatial
+    - name:
+      org:
 
 ---
