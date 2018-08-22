@@ -10,21 +10,21 @@ session-a-talks:
 - title: "Getting Involved"
   description: An introduction to HOT and the Working Groups
   speakers:
-    - name: 
+    - name: Rebecca Firth & Russell Deffner
       org:
 - title: "Hands-on Intro to Communications and Collab Tools"
   description: Workshop on collaboration tools we use
   speakers:
-    - name: 
+    - name: Dakota Benjamin & Ramya Rugupathy
       org:
 
 session-b-event: "Session #2"
 session-b-location: Room 2
 session-b-talks:
-- title: "Design workshop on data quality/validation improvements within TM/iD editor"
+- title: "Design Workshop: AI & Machine Learning: Integrating into HOT tools"
   description:
   speakers:
-    - name:
+    - name: 
       org: 
 
 ---

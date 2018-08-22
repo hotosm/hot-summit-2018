@@ -1,13 +1,23 @@
 ---
-type: "session"
+type: "split-session"
 day: 6
 
 time: 14:30 - 16:45
-event: Birds of a Feather (BOFs)
-location: Rooms 1 & 2
 
-speakers:
-- name:
-  org:
-description: <a href="">Find or propose a session to join</a>
+session-a-event: "Session #3"
+session-a-location: Room 1
+session-a-talks:
+- title: "HOT 2020 - Strategic Planning (HOT Voting Members, all welcome to observe)"
+  speakers:
+    - name:
+      org:
+
+session-b-event: "Session #4"
+session-b-location: Room 2
+session-b-talks:
+- title: "Birds of a Feather (BOFs)"
+  speakers:
+    - name:
+      org:
+
 ---
