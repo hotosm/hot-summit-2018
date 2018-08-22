@@ -2,7 +2,7 @@
 type: "split-session"
 day: 6
 
-time: 11:00 - 13:25
+time: 12:30 - 13:20
 
 session-a-event: "Session #3"
 session-a-location: Room 1
