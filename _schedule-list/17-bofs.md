@@ -1,6 +1,6 @@
 ---
 type: "session"
-day: 1
+day: 6
 
 time: 14:30 - 16:45
 event: Birds of a Feather (BOFs)

@@ -1,6 +1,6 @@
 ---
 type: "split-session"
-day: 1
+day: 6
 
 time: 09:30 - 10:30
 

@@ -1,6 +1,6 @@
 ---
 type: "session"
-day: 1
+day: 6
 
 time: 09:00 - 09:30
 event: Welcome Remarks
