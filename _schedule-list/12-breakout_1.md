@@ -15,7 +15,7 @@ session-a-talks:
 - title: "Hands-on Intro to Communications and Collab Tools"
   description: Workshop on collaboration tools we use
   speakers:
-    - name: Dakota Benjamin & Ramya Rugupathy
+    - name: Dakota Benjamin & Biondi Sanda Sima
       org:
 
 session-b-event: "Session #2"
