@@ -1,8 +1,8 @@
 ---
 type: "split-session"
-day: 1
+day: 6
 
-time: 11:00 - 13:25
+time: 14:30 - 16:45
 
 session-a-event: "Session #3"
 session-a-location: Room 1
@@ -15,11 +15,7 @@ session-a-talks:
 session-b-event: "Session #4"
 session-b-location: Room 2
 session-b-talks:
-- title: "AI & Machine Learning: Integrating into HOT tools"
-  speakers:
-    - name:
-      org:
-- title: "How-To: HOT Tasking Manager Project Management & Validation"
+- title: "Birds of a Feather (BOFs)"
   speakers:
     - name:
       org:

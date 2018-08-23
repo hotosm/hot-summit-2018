@@ -1,10 +1,10 @@
 ---
 type: "session"
-day: 1
+day: 6
 
 time: 09:00 - 09:30
 event: Welcome Remarks
-location: National Museum
+location: National Museum (Main Room)
 
 speakers:
 - name: Tyler Radford
