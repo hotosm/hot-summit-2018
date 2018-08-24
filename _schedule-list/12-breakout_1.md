@@ -4,7 +4,7 @@ day: 6
 
 time: 09:30 - 10:30
 
-session-a-event: "Session #1"
+session-a-event: "Session #3"
 session-a-location: Room 1
 session-a-talks:
 - title: "Getting Involved"
@@ -18,13 +18,13 @@ session-a-talks:
     - name: Dakota Benjamin & Biondi Sanda Sima
       org:
 
-session-b-event: "Session #2"
+session-b-event: "Session #4"
 session-b-location: Room 2
 session-b-talks:
-- title: "Design Workshop: AI & Machine Learning: Integrating into HOT tools"
+- title: "Design Workshop: Data quality/validation improvements within TM/iD editor (validation experience recommended)"
   description:
   speakers:
     - name: 
-      org: 
+      org:
 
 ---

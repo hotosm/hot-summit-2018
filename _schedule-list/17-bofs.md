@@ -4,18 +4,18 @@ day: 6
 
 time: 14:30 - 16:45
 
-session-a-event: "Session #7"
-session-a-location: Room 1
+session-a-event: "FOSS4G Afternoon Keynotes"
+session-a-location: JNICC
 session-a-talks:
-- title: "HOT 2020 - Strategic Planning (HOT Voting Members, all welcome to observe)"
+- title: "Head back over to FOSS4G for final joint sessions"
   speakers:
     - name:
       org:
 
-session-b-event: "Session #8"
+session-b-event: "Session #10"
 session-b-location: Room 2
 session-b-talks:
-- title: "Birds of a Feather (BOFs)"
+- title: "Informal BOF space available"
   speakers:
     - name:
       org:
