@@ -15,7 +15,7 @@ session-a-talks:
 session-b-event: "Session #6"
 session-b-location: Room 2
 session-b-talks:
-- title: "Design Workshop: AI & Machine Learning: Integrating into HOT tools"
+- title: "Design Workshop: Data quality/validation improvements within TM/iD editor (validation experience recommended)"
   speakers:
     - name:
       org:
